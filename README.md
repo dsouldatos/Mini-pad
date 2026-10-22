@@ -1,4 +1,4 @@
-I designed a mini keybord whit 4 switches and a encoder 
+I designed a mini keyboard whit 4 switches and a encoder and 7 leds
 first i desined the scamatik of the desing 
 <img width="1121" height="749" alt="Screenshot 2026-10-05 175305" src="https://github.com/user-attachments/assets/930d395e-9aec-416e-b555-5844c37303d3" />
 Then I designed the pcb and synchronized  the footprints and wired every thing up according to the internet and Claude unforchanetly I had the led on the rong side and I had to flip all of the leds  and rewire most most of the design
@@ -15,8 +15,16 @@ I found the switches online and downloaded them and imported them into fusion
 Lasty I added clarences 
 0,3mm between the case in the pcb and the case and the mounting plat 
 0.15mm between the case and the lid ( for a snug fit )
-and lasty 1.5mm between the encoder nob and the encoder 
+and  0.15mm between the encoder nob and the encoder 
+Here are all the parts in the design 
 
-
+Seeed XIAO RP2040	1				
+MX-style switch	4				
+EC11E rotary encoder	1				
+SK6812 MINI-E LED	7				
+Keycaps	4				
+Knob	1				
+PCB	1				
+3D Model 1
 
 
