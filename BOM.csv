@@ -1,7 +1,7 @@
 I don't need funding   her is the list of all the componets
 
-Reference	Component	Qty	Value / Part	Manufacturer	MPN
-U1	Microcontroller	1	Seeed XIAO RP2040	Seeed Studio	102010428
-SW1–SW4	Key switches	4	Gateron Yellow, MX-style	Gateron	KS-3Y10B050NW-X1
-SW5	Rotary encoder with push button	1	EC11E	Alps Alpine	copy from your listing
-D3–D9	RGB LEDs	7	SK6812 MINI-E	Worl
+Reference	 Component	     Qty	 Value / Part	     Manufacturer	   MPN
+U1	       Microcontroller	1	 Seeed XIAO RP2040	  Seeed Studio	102010428
+SW1–SW4	   Key switches   	4	   MX-style switches	Gateron	      KS-3Y10B050NW-X1
+SW5	Rotary encoder         	1	 EC11E	              Alps Alpine	  EC11E   Vertical  (with push-on switch)
+D3–D9	RGB  LEDs	            7	 SK6812 MINI-E	        Worl         SK6812MINI-E
