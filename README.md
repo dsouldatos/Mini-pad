@@ -18,13 +18,20 @@ Lasty I added clarences
 and  0.15mm between the encoder nob and the encoder 
 Here are all the parts in the design 
 
-Seeed XIAO RP2040	1				
-MX-style switch	4				
-EC11E rotary encoder	1				
-SK6812 MINI-E LED	7				
-Keycaps	4				
-Knob	1				
-PCB	1				
+Seeed XIAO RP2040	1	
+
+MX-style switch	4		
+
+EC11E rotary encoder	1	
+
+SK6812 MINI-E LED	7		
+
+Keycaps	4		
+
+Knob	1
+
+PCB	1
+
 3D Model 1
 
 
