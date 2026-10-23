@@ -51,8 +51,8 @@ The same list is in `BOM.csv`.
 
 ## Files
 
-- `PCB design/` - KiCad project (schematic and PCB)
-- `3d models/` - Fusion and STEP files for the case, knob and full assembly
-- `firmware/` - firmware for the keyboard
-- `BOM.csv` - bill of materials
-- `JOURNAL.md` - build journal
+- PCB design/ - KiCad project (schematic and PCB)
+- 3d models/ - Fusion and STEP files for the case, knob and full assembly
+- firmware/ - firmware for the keyboard
+- BOM.csv - bill of materials
+  
