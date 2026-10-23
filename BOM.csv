@@ -1,6 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-1 unsoldered Seeed XIAO RP2040,1,https://www.nettop.gr/index.php/development-boards/grove/seeed-studio-xiao-rp204,$0.10,$0.10,https://wiki.seeedstudio.com/XIAO-RP2040/
-MX-Style switches,4,https://www.nettop.gr/index.php/development-boards/grove/seeed-studio-xiao-rp204,$0.10,$0.40,https://www.gateron.co/collections/all-products/products/gateron-switch-set?variant=40053021147225
 Microcontroller,1,Seeed Studio,$0.00,$0.00,
 Key switches,4,Gateron,$0.00,$0.00,
 Rotary encoder,1,Alps Alpine,$0.00,$0.00,
