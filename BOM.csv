@@ -1,10 +1,9 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Microcontroller,1,Seeed Studio,$0.00,$0.00,
-Key switches,4,Gateron,$0.00,$0.00,
-Rotary encoder,1,Alps Alpine,$0.00,$0.00,
-RGB LEDs,7,Worldsemi,$0.00,$0.00,
-Keycaps,4,,$0.00,$0.00,
-Encoder knob,1,,$0.00,$0.00,
-PCB,1,,$0.00,$0.00,
-Case,1,,$0.00,$0.00,
-Estimated total shipping,1,,,$0.00,
+Reference,Component,Qty,Part,Manufacturer,MPN
+U1,Microcontroller,1,Seeed XIAO RP2040,Seeed Studio,102010428
+SW1-SW4,Key switches,4,MX-style switch,Gateron,KS-3Y10B050NW-X1
+SW5,Rotary encoder,1,EC11E (vertical with push switch),Alps Alpine,EC11E
+D3-D9,RGB LEDs,7,SK6812 MINI-E,Worldsemi,SK6812MINI-E
+-,Keycaps,4,-,-,-
+-,Encoder knob,1,3D printed,-,-
+-,PCB,1,Custom 2-layer designed in KiCad,-,-
+-,Case,1,"3D printed: case, mounting plate, lid, USB-C support",-,-
