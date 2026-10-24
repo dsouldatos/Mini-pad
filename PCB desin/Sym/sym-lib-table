@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Symbol") (type "KiCad") (uri "${KIPRJMOD}/Symbol.kicad_sym") (options "") (descr ""))
+	(lib (name "David full hackpad pcb") (type "KiCad") (uri "C:/Users/david/OneDrive/Documents/david/Kicad/David full hackpad pcb.kicad_sym") (options "") (descr ""))
+	(lib (name "Kicad") (type "KiCad") (uri "${KIPRJMOD}/Kicad.kicad_sym") (options "") (descr ""))
+)
