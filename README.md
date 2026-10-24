@@ -18,7 +18,7 @@ Then I exported the 3D model of the design and dropped it into Fusion.
 
 ![PCB 3D model in Fusion](https://github.com/user-attachments/assets/d41c7c44-ba11-4d8a-a28a-d101590abdd4)
 
-After that I started modeling the case.
+After that I started modeling the case in Fution .
 
 ![Case modeling](https://github.com/user-attachments/assets/9bfbd178-73ac-4fbb-8e49-ff0f38f0d8a2)
 
@@ -49,10 +49,5 @@ Lastly, I added clearances: 0.3 mm between the PCB and the case and between the 
 
 The same list is in `BOM.csv`.
 
-## Files
+Also lasty here is  the full 3d design for Autodesk fution
 
-- PCB design/ - KiCad project (schematic and PCB)
-- 3d models/ - Fusion and STEP files for the case, knob and full assembly
-- firmware/ - firmware for the keyboard
-- BOM.csv - bill of materials
-  
