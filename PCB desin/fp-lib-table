@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Foutprints") (type "KiCad") (uri "${KIPRJMOD}/Foutprints.pretty") (options "") (descr ""))
+)
