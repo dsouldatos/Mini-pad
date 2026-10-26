@@ -47,7 +47,7 @@ Lastly, I added clearances: 0.3 mm between the PCB and the case and between the 
 | - | PCB | 1 | Custom 2-layer, designed in KiCad | - | - |
 | - | Case | 1 | 3D printed: case, mounting plate, lid, USB-C support | - | - |
 
-The same list is in `BOM.csv`.
+The same list is in BOM.csv.
 
-Also lasty here is  the full 3d design for Autodesk fution
+
 
