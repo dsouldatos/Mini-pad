@@ -2,7 +2,6 @@
 
 A mini keyboard with 4 mechanical switches, a rotary encoder and 7 RGB LEDs. I designed the PCB and modeled the case myself.
 
-I don't need funding for this project.
 
 ## How I made it
 
