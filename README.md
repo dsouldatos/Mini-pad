@@ -48,7 +48,7 @@ Lastly, I added clearances: 0.3 mm between the PCB and the case and between the 
 
 The same list is in BOM.csv.
 
-How to install and runthe firmware
+How to install and run the firmware
 
 1. Install CircuitPython on the XIAO
 
