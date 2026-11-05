@@ -48,5 +48,28 @@ Lastly, I added clearances: 0.3 mm between the PCB and the case and between the 
 
 The same list is in BOM.csv.
 
+How to install and runthe firmware
+
+1. Install CircuitPython on the XIAO
+
+Go to circuitpython.org and search for "XIAO RP2040".
+Download the .uf2 file.
+Hold the B (boot) button on the XIAO, plug it into your computer with USB-C, then let go of the button.
+A drive called RPI-RP2 appears. Drag the .uf2 file onto it.
+The drive restarts and comes back with the name CIRCUITPY. CircuitPython is now installed.
+
+2. Download the two libraries
+
+The firmware needs two libraries except the basic code that I have them in the firmware section
+-adafruit_hid 
+-neopixel.mpy
+
+
+
+3. Copy everything to the board
+
+Open the CIRCUITPY drive.
+Copy production/main.py to the drive.
+Create a folder called lib on the drive if it is not there, and copy adafruit_hid and neopixel.mpy into it.
 
 
