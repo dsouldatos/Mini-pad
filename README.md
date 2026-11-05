@@ -61,8 +61,8 @@ The drive restarts and comes back with the name CIRCUITPY. CircuitPython is now 
 2. Download the two libraries
 
 The firmware needs two libraries except the basic code that I have them in the firmware section
--adafruit_hid 
--neopixel.mpy
+- adafruit_hid 
+- neopixel.mpy
 
 
 
